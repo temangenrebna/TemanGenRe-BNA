@@ -1,5 +1,3 @@
-# TemanGenRe-BNA
-Website resmi GENRE BANDA ACEH – Teman GenRe BNA
 <!DOCTYPE html>
 <html lang="id">
 <head>
